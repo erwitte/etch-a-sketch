@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.huen{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+#grid{
+    margin: auto;
+    align-self: center;
+    width: 30%;
+    height: 40%;
+    overflow: clip;
+    background-color: purple;
+}
